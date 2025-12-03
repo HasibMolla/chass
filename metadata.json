@@ -1,0 +1,9 @@
+{
+  "name": "Chasabbad",
+  "description": "A comprehensive agri-tech platform for Bangladeshi farmers featuring AI crop disease detection, weather forecasting, and farm management tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
